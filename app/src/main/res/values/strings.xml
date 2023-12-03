@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework #14</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_item_one">Add Item One</string>
+    <string name="add_item_two">Add Item Two</string>
+    <string name="mercedes">Mercedes</string>
+    <string name="delete">Delete</string>
+</resources>
